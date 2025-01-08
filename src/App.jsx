@@ -64,7 +64,7 @@ const App = () => {
 
   return (
     <div style={{ padding: "20px" }}>
-      <h1>People Management</h1>
+      <h1>People Management sumit</h1>
       <form onSubmit={handleSubmit} style={{ marginBottom: "20px" }}>
         <input
           type="text"
