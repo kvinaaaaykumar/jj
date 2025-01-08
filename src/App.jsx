@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-const link = "http://localhost:8080"
+const link = "http://147.93.30.59:2000"
 
 
 const App = () => {
